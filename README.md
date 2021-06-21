@@ -1,2 +1,2 @@
 # hello-world
-Sou um estudante, dando os primeiros passos.
+Sou um estudante dando os primeiros passos.
